@@ -1,10 +1,9 @@
 project:
   type: website
-output-dir: docs
-
-website:
-  title: "hamjacks.github.io"
-  navbar:
+  output-dir: docs
+  website:
+    title: "hamjacks.github.io"
+   navbar:
     left:
       - href: index.qmd
         text: Home
